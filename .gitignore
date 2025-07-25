@@ -1,0 +1,21 @@
+# Ignore entire data directory
+/data/
+
+# Ignore specific file types
+*.csv
+
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+.venv/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
